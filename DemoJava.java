@@ -7,3 +7,5 @@ class DemoJava
 }
 
 //Added this line as 'first change'
+
+//this change is made to check 'git status'
