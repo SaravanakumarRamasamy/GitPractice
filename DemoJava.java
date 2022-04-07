@@ -5,3 +5,5 @@ class DemoJava
 		System.out.println("Hello world");
 	}
 }
+
+//Added this line as 'first change'
